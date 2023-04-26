@@ -1,4 +1,9 @@
 <topics>
+  <topic name="Pauline">
+    <title>fake news detection</title>
+    <description>All publications and workshops concerning the detection (identification) of fake news (disinformation, misinformation or deep fakes)</description>
+    <narrative>Relevant documents show the bigram of "fake news" or its synonyms in the context of their detection mechanisms.</narrative>
+  </topic>
 
   <topic name="Iris">
     <title> multimedia retrieval </title>
