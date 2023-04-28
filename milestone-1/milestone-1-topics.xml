@@ -1,24 +1,25 @@
 <topics>
-  <topic name="Pauline">
+  <topic number="1">
     <title>fake news detection</title>
     <description>All publications and workshops concerning the detection (identification) of fake news (disinformation, misinformation or deep fakes)</description>
     <narrative>Relevant documents show the bigram of "fake news" or its synonyms in the context of their detection mechanisms.</narrative>
   </topic>
 
-  <topic name="Iris">
+  <topic number="2">
     <title> multimedia retrieval </title>
     <description> Which documents have information about multimedia information retrieval. </description>
     <narrative> To be relevant documents have to have methods and information of multimedia retrieval.</narrative>
   </topic>
 
-  <topic name="Justin">
+  <topic number="3">
     <title>processing natural language for information retrieval</title>
     <description>Which documents contain informtion like problem definitions, methods, algorithms or challenges in processing natural language for information retrieval systems?</description>
     <narrative>Relevant documents provide information about processing natural language associated with information retrieval. Documents containing information about information retrieval not associated with natural language or the other way round are not relevant.</narrative>
   </topic>
 
-  <topic name="Yannick">
+  <topic number="4">
     <title>recommendation systems</title>
     <description>What documents contain information on recommendation systems (systems that suggest items to users based on their past behaviour and interests)</description>
     <narrative>Relevant documents contain information or research on the topic of recommendation systems in the context of information retrieval.</narrative>
+  </topic>
 </topics>
