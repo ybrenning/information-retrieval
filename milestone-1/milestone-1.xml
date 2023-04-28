@@ -11,4 +11,8 @@
     <narrative> To be relevant documents have to have methods and information of multimedia retrieval.</narrative>
   </topic>
 
+  <topic name="Yannick">
+    <title>recommendation systems</title>
+    <description>What documents contain information on recommendation systems (systems that suggest items to users based on their past behaviour and interests)</description>
+    <narrative>Relevant documents contain information or research on the topic of recommendation systems in the context of information retrieval.</narrative>
 </topics>
