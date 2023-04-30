@@ -3,4 +3,4 @@
 
 **/venv
 
-milestone-1/ir-anthology-dataset
+milestone-1/ir-anthology-dataset/*.jsonl
