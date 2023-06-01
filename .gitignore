@@ -2,5 +2,6 @@
 **/.idea
 
 **/venv
+**/.ipynb_checkpoints
 
-milestone-1/ir-anthology-dataset/documents.jsonl
+**/documents.jsonl
